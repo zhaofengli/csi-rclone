@@ -1,0 +1,8 @@
+resources:
+- _csi-rclone-namespace.yaml
+- csi-controller-rbac.yaml
+- csi-controller-rclone.yaml
+- csi-driver.yaml
+- csi-nodeplugin-rbac.yaml
+- csi-nodeplugin-rclone.yaml
+- csi-rclone-storageclass.yaml
